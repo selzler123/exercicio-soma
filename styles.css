@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/img3.avif);
+    margin-top: 180px;
+    margin-left: 780px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 p{
+    color: #00FF00;
+}
